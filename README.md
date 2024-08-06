@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-sami-ansari-786801244?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADyhqxYBUbRYaFi6rm_jyt7N40kBxl8dZtw&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BjG3nHlL4QHme4Z3VsTUtGw%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MSamiAnsari3) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sami-ansari)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MSamiAnsari3) 
 
 # 👑 Startups:
 [![cryptosignals.ltd](https://cryptosignals.ltd/favicon.ico)](https://cryptosignals.ltd/) 
