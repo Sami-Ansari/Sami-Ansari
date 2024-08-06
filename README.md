@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sami-Ansari&hide=contribs,prs)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sami-Ansari&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!--
 **Sami-Ansari/Sami-Ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
