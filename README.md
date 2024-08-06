@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sami-Ansari)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sami-Ansari)](https://github.com/Sami-Ansari/github-readme-stats)
 <!--
 **Sami-Ansari/Sami-Ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
