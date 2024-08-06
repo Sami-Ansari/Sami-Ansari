@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sami-ansari-786801244/)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MSamiAnsari3) 
 
 # 👑 Startups:
+I'm working on Crypto Signals, a startup that offers high-accuracy trading signals for Bitcoin, Ethereum, and altcoins. We provide insights through scalping, day trading, and swing trading strategies, along with real-time market updates and expert analysis. Join our free Discord community for timely updates and connect with fellow traders. Check it out at [Crypto Signals](https://cryptosignals.ltd/).
 [![cryptosignals.ltd](https://cryptosignals.ltd/favicon.ico)](https://cryptosignals.ltd/) 
 
 
